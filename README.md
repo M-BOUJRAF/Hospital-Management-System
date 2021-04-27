@@ -19,7 +19,7 @@ table name.
 
 6.   if theres an error in database you can check the connector with changing the localhost 3308 into 3306
 
-7.  you can log in as an admin using  login keyword : admin,HAMDAOUI,BOUJRAF /psw: admin,HAMDAOUI,BOUJRAF
+7.  you can log in as an admin using  login keyword : admin,BOUJRAF /psw: admin,BOUJRAF
 
 8. you can log in as a doctor  using  login keyword : ali /psw:ali
 
