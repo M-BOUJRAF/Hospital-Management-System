@@ -1,5 +1,4 @@
 # Hospital-Management-System
-Hospital Management Application
-Desktop application of hospital management
+Hospital Management Application<br/>;
+Desktop application of hospital management<br/>;
 Tools: JavaFx, MySQL
- 
