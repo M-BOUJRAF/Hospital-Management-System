@@ -2,8 +2,7 @@
 Hospital Management Application<br/>
 Desktop application of hospital management<br/>
 Tools: JavaFx, MySQL<br/>
-To run this properly use wampserver or another sql server and creat table and database according to project code or modify code accordings to your database &
-table name.
+To run this properly use wampserver or another sql server.
 
 -----------------------------------------------
 
